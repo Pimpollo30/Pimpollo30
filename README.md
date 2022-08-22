@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/70590661/185859344-36457a23-36cb-46af-ad5c-2ea5abd83a14.png" height="235">
+<img src="https://user-images.githubusercontent.com/70590661/185861331-79eca27b-afe9-45ae-9666-fa25a2c2ad4f.png" height="200">
 </div>
 
 ### 🙍🏽‍♂️ Acerca de mí
