@@ -1,21 +1,31 @@
-## Hola a todos! Mi nombre es Abraham Raymundo😎👏🏽
+## 📌Hola a todos! Mi nombre es Abraham Raymundo😎👏🏽
+
+<div align="center">
 
 *"You know my name, not my story. You've heard what I've done, but not what I've been through."*  —**Jonathan Anthony Burkett**
 
-### Acerca de mí
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/70590661/185859344-36457a23-36cb-46af-ad5c-2ea5abd83a14.png" height="235">
+</div>
+
+### 🙍🏽‍♂️ Acerca de mí
 <ul>
   <li>💻 Soy desarrollador de software, principalmente de aplicaciones web y móviles.</li>
   <li>📢 La informática y la música son mis dos grandes pasiones, siendo las portavoces de mi vocación y profesionalismo a largo de estos años.</li>
   <li>🛠 Me encantan los retos, porque son oportunidades que no se presentan dos veces en la vida y permiten impulsar el crecimiento profesional y personal</li>
 </ul>
 
-### Estadísticas
+### 📊 Estadísticas
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Pimpollo30&theme=dark&show_icons=true&icon_color=9757FF" height="200"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=default&theme=dark" height="200"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Pimpollo30&theme=graywhite&show_icons=true&icon_color=9757FF&border_radius=0&border_color=cccccc" height="200"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pimpollo30&langs_count=4&layout=default&theme=graywhite&border_radius=0&border_color=cccccc" height="200"></a>
 </div>
 
-### Habilidades Informáticas
+### ⌨ Habilidades Informáticas
+
+<div align="center">
 
 | **Habilidad** | **Herramientas** |
 |---------------|------------------|
@@ -24,3 +34,13 @@
 | Databases     |![MySQL](https://img.shields.io/badge/MySQL-00618a?style=flat-square&logo=mysql&logoColor=FFFFFF) ![MariaDB](https://img.shields.io/badge/MariaDB-c0755a?style=flat-square&logo=mariadb&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-1b8931?style=flat-square&logo=mongodb&logoColor=7fc572) ![SQLite](https://img.shields.io/badge/SQLite-0f80cc?style=flat-square&logo=sqlite&logoColor=FFFFFF)                  |
 | Frameworks    |![Angular](https://img.shields.io/badge/Angular-dd0030?style=flat-square&logo=angular&logoColor=FFFFFF) ![Laravel](https://img.shields.io/badge/Laravel-ef3a2d?style=flat-square&logo=laravel&logoColor=FFFFFF) ![Express.js](https://img.shields.io/badge/Express%2Ejs-505050?style=flat-square&logo=express&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7809f6?style=flat-square&logo=bootstrap&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-01b7d6?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)                  |
 | Contacto      |[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jarg6589/) [![Credly](https://img.shields.io/badge/Credly-f36b21?style=flat-square&logo=credly&logoColor=FFFFFF)](https://www.credly.com/users/jose-abraham-raymundo-garcia)                  |
+
+</div>
+
+
+*Este **README.md** fue construido con las siguientes herramientas :)*
+* *Anurag Hazra's github-readme-stats: https://github.com/anuraghazra/github-readme-stats*
+* *Shields.io: https://shields.io/*
+* *Simple Icons: https://simpleicons.org/*
+* *Simple Icons Slugs: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md*
+* *Markdown Tables Generator: https://www.tablesgenerator.com/markdown_tables*
