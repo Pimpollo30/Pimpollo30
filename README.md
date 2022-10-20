@@ -12,8 +12,8 @@
 
 ### 🙍🏽‍♂️ Acerca de mí
 <ul>
-  <li>💻 Soy desarrollador de software, principalmente de aplicaciones web y móviles.</li>
-  <li>📢 La informática y la música son mis dos grandes pasiones, siendo las portavoces de mi vocación y profesionalismo a largo de estos años.</li>
+  <li>💻 Soy desarrollador de software, principalmente de aplicaciones web.</li>
+  <li>📢 La informática y la música son mis dos grandes pasiones y llenan de satisfacción a mi vida.</li>
   <li>🛠 Me encantan los retos, porque son oportunidades que no se presentan dos veces en la vida y permiten impulsar el crecimiento profesional y personal</li>
 </ul>
 
