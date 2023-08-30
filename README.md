@@ -1,21 +1,4 @@
-## 📌Hola a todos! Mi nombre es Abraham Raymundo😎👏🏽
-
-<div align="center">
-
-*"You know my name, not my story. You've heard what I've done, but not what I've been through."*  —**Jonathan Anthony Burkett**
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/70590661/185861331-79eca27b-afe9-45ae-9666-fa25a2c2ad4f.png" height="200">
-</div>
-
-### 🙍🏽‍♂️ Acerca de mí
-<ul>
-  <li>💻 Soy desarrollador de software, principalmente de aplicaciones web.</li>
-  <li>📢 La informática y la música son mis dos grandes pasiones, sin ellas no soy absolutamente nada.</li>
-  <li>🛠 Me encantan los retos, porque son oportunidades que no se presentan dos veces en la vida y permiten impulsar el crecimiento profesional y personal</li>
-</ul>
+## 📌Hola!😎👏🏽
 
 ### 📊 Estadísticas
 <div align="center">
