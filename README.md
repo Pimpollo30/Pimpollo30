@@ -3,7 +3,7 @@
 ### 📊 Estadísticas
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Pimpollo30&theme=graywhite&show_icons=true&icon_color=9757FF&border_radius=0&border_color=cccccc" height="200"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pimpollo30&langs_count=4&layout=default&theme=graywhite&border_radius=0&border_color=cccccc" height="200"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pimpollo30&langs_count=4&theme=graywhite&border_radius=0&border_color=cccccc" height="200"></a>
 </div>
 
 ### ⌨ Habilidades Informáticas
